@@ -3,10 +3,10 @@
 ## Project description
 Create a search platform to look for a coctail and its ingredients
 - async await fetch
--local storage
--document.title change
--module
--Cocktail Api
+- local storage
+- document.title change
+- module
+- Cocktail Api
 
 
 
